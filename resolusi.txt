@@ -1,6 +1,7 @@
 resolusi
-- Learning web
 - create MVC
 - learn API
 - make mie
 - Dpp Mobile
+- launch ESPP
+- tambah file
