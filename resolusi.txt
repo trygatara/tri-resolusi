@@ -1,0 +1,4 @@
+resolusi
+- Learning web
+- create MVC
+- learn API
